@@ -32,7 +32,7 @@ Two machine learning regression models were applied using `scikit-learn`:
 - **Random Forest Regressor** (with 100 estimators)
 
 ### Preprocessing Steps:
-- Created the `Target` variable by shifting the Close column by -1
+- Created the Target variable by shifting the Close column by -1
 - Dropped any resulting missing values
 - Features used: Open, High, Low, and Volume
 - Train-test split (80% train, 20% test) without shuffling to preserve time sequence
