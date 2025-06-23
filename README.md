@@ -39,7 +39,7 @@ Two machine learning regression models were applied using `scikit-learn`:
 
 ---
 
-## 📊 Key Results and Findings
+## Key Results and Findings
 
 | Model               | Mean Squared Error (MSE) |
 |---------------------|--------------------------|
